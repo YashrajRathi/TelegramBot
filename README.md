@@ -18,3 +18,5 @@ Telegram sometimes names the files according to any particular sequence which le
 5.You can also name sequence number with number button 
 
 6.Start downloading your files from Telegram and it will start naming and sending files to your computor.
+
+7.Your computer will send a notification on your laptop screen and then you can download next video.
