@@ -1,5 +1,5 @@
-# TelegramHacker
-TelegramHacker is a simple yet time saving android application which lets the user back one's telegram downloaded videos to their personal computer in android automatically thus saving space in their android device.
+# TelegramBot
+TelegramBot is a simple yet time saving android application which lets the user back one's telegram downloaded videos to their personal computer in android automatically thus saving space in their android device.
 
 
 # Need
